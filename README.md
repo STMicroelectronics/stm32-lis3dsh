@@ -27,7 +27,7 @@ This software component is licensed by STMicroelectronics under the **BSD-3-Clau
 
 ## Release note
 
-Details about the content of this release are available in the release note [here](https://htmlpreview.github.io/?https://github.com/STMicroelectronics/lis3dsh/blob/main/Release_Notes.html).
+Details about the content of this release are available in the release note [here](https://htmlpreview.github.io/?https://github.com/STMicroelectronics/stm32-lis3dsh/blob/main/Release_Notes.html).
 
 ## Compatibility information
 
